@@ -7,7 +7,7 @@
 // @match        https://info.wsu.ac.kr/*
 // @require      https://unpkg.com/showmodaldialog
 // @grant        none
-// @updateURL    https://wsu-helper-user.github.io/info-system/remove-access-limitation.user.js
+// @updateURL    https://github.com/wsu-helper-user/info-system/raw/main/remove-access-limitation.user.js
 // ==/UserScript==
 
 (function(win, doc) {
