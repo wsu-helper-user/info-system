@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         WSU remove Safari limitation
+// @name         WSU info remove access limitation
 // @namespace    http://tampermonkey.net/
-// @version      0.0.1
+// @version      0.0.2
 // @description  try make wsu info page easy!
 // @author       wsu-helper-user
-// @match      https://info.wsu.ac.kr/*
-// @require    https://unpkg.com/showmodaldialog
+// @match        https://info.wsu.ac.kr/*
+// @require      https://unpkg.com/showmodaldialog
 // @grant        none
+// @updateURL    https://wsu-helper-user.github.io/info-system/remove-access-limitation.user.js
 // ==/UserScript==
 
 (function(win, doc) {
