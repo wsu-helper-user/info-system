@@ -5,6 +5,7 @@
 // @description  try make wsu info page easy!
 // @author       wsu-helper-user
 // @match        https://info.wsu.ac.kr/*
+// @match        https://info.solbridge.ac.kr/*
 // @grant        none
 // @updateURL    https://github.com/wsu-helper-user/info-system/raw/main/remove-access-limitation.user.js
 // ==/UserScript==
