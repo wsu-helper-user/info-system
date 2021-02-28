@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WSU info system remove access limitation
 // @namespace    http://tampermonkey.net/
-// @version      0.0.3
+// @version      0.0.4
 // @description  try make wsu info page easy!
 // @author       wsu-helper-user
 // @match        https://info.wsu.ac.kr/*
